@@ -115,7 +115,7 @@ class PasswordManager extends Component {
         <div className="top-card">
           <div className="user-inputs-con">
             <h1 className="heading">Add New Password</h1>
-            <form onSubmit={this.onAddButton}>
+            <form className="form" onSubmit={this.onAddButton}>
               <div className="input-con">
                 <img
                   src="https://assets.ccbp.in/frontend/react-js/password-manager-website-img.png"

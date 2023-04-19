@@ -139,6 +139,7 @@ hr {
   cursor: pointer;
   outline: none;
   border-radius: 7px;
+  justify-content: flex-end;
 }
 .input {
   border-left: 1px solid #c3caea;
